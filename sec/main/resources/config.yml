@@ -1,0 +1,13 @@
+# 物品复制插件配置
+
+# 冷却时间（秒）
+cooldown: 60
+
+# 是否允许复制潜影盒
+allow-shulker-boxes: true
+
+# 当背包已满时是否掉落物品
+drop-on-full: true
+
+# 启用的世界列表（为空时所有世界可用）
+enabled-worlds:
