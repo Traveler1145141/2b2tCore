@@ -1,0 +1,11 @@
+name: DupePlugin
+main: com.traveler114514.dupeplugin.DupePlugin
+version: 1.0
+api-version: 1.16
+author: Traveler114514
+description: 物品复制插件，每60秒可复制一次手持物品
+
+commands:
+  dupe:
+    description: 复制手中的物品
+    usage: /dupe
