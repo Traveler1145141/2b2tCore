@@ -1,4 +1,4 @@
-package com.example.dupeplugin;
+package com.traveler114514.dupeplugin;
 
 import org.bukkit.Material;
 import org.bukkit.command.Command;
